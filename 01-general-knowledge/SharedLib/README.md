@@ -12,5 +12,3 @@ Content:
 Output:
 22:22:56.646> Chuong trinh bat dau
 22:22:57.646> Chuong trinh ket thuc
-
-

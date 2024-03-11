@@ -13,6 +13,3 @@ Content:
 Output:
 22:26:53.709> Chuong trinh bat dau
 22:26:54.709> Chuong trinh ket thuc
-
-
-
