@@ -3,7 +3,7 @@ Directory structure:
 - obj: Directory for the object files.
 - inc: Directory for the header files.
 - src: Directory for the C and Cpp files.
-- lib: Directory for the static and shared lib.
+- lib: Directory for the static lib.
 
 Content:
 - Create a new file and write some contents.
